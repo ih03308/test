@@ -1,0 +1,9 @@
+/target
+/work
+/WEB-INF/classes
+.settings
+.tomcatplugin
+.#webclasspath
+.DS_Store
+Thumbs.db
+*.ini
